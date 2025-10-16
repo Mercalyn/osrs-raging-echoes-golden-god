@@ -5,3 +5,12 @@ Golden God has a 65% chance for the item to not be consumed. This means a 35% ch
 For example, starting with 2 items drops the gambler ruin to 12%. See graphs. It depends on each alch value.
 Listed are 3 easy to get stones, condensed gold, gold leaf, and magic stone.
 
+
+Condensed Gold:
+![current results](condensed.png)
+
+Gold Leaf:
+![current results](gleaf.png)
+
+Magic Stone:
+![current results](mstone.png)

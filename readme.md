@@ -7,10 +7,14 @@ Listed are 3 easy to get stones, condensed gold, gold leaf, and magic stone.
 
 
 Condensed Gold:
-![current results](condensed.png)
+![Condensed Gold](condensed.png)
 
 Gold Leaf:
-![current results](gleaf.png)
+![Gold Leaf](gleaf.png)
 
 Magic Stone:
-![current results](mstone.png)
+![Magic Stone](mstone.png)
+
+
+Monte Carlo simulation of starting with 1 vs. 5 condensed gold over number of alchs:
+![Condensed Gold](adj.png)
